@@ -89,3 +89,5 @@ height: 300px;
 text-align: center;
 vertical-align: top;
 }
+
+table.sample1 {border: solid 1px #000000; border-collapse: collapse;}
