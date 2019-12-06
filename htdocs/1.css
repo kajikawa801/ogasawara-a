@@ -90,5 +90,5 @@ text-align: center;
 vertical-align: top;
 }
 
-table.sample1 {border: solid 1px red; border-collapse: separate;}
-td, th { border: 2px #808080 solid; }
+table.sample1 {    border-collapse: collapse;
+  border:1px solid #333;}
