@@ -90,4 +90,4 @@ text-align: center;
 vertical-align: top;
 }
 
-table.sample1 {border: solid 1px #000000; border-collapse: collapse;}
+table.sample1 {border: solid 1px #000000; border-collapse: separate;}
