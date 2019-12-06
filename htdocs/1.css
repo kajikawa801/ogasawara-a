@@ -91,3 +91,4 @@ vertical-align: top;
 }
 
 table.sample1 {border: solid 1px red; border-collapse: separate;}
+td, th { border: 2px #808080 solid; }
