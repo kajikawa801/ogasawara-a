@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>1位</title>
+<link rel="stylesheet" type="text/css" href="./1.css">
+</head>
+<body>
+<div id="header">
+<h1>PM実験　隠れや</h1>
+</div><!-- /header -->
+<div class="cp_navi">
+<ul>
+	<li><a class="active" href="try1.html">Top</a></li>
+	<li>
+		<a href="#">ランキング<span class="caret"></span></a>
+		<div>
+			<ul>
+<li><a href="index.html">1位</a></li>
+<li><a href="./2w.html">2位</a></li>
+<li><a href="./3w.html">3位</a></li>
+<li><a href="./4w.html">4位</a></li>
+<li><a href="./5w.html">5位</a></li>
+<li><a href="./6w.html">6位</a></li>
+<li><a href="./7w.html">7位</a></li>
+<li><a href="./8w.html">8位</a></li>
+<li><a href="./9w.html">9位</a></li>
+<li><a href="./10w.html">10位</a></li>
+			</ul>
+		</div>
+	</li>
+
+</ul>
+</div>
+<img src="sample01.jpg" height="400" width="400" title="隠れや" alt="隠れや"align="left">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55565170.29301636!2d-132.08532758867793!3d31.786060306224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2z44Ki44Oh44Oq44Kr5ZCI6KGG5Zu9!5e0!3m2!1sja!2sjp!4v1575384685107!5m2!1sja!2sjp" width="400" height="400" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<br>
+</TABLE>
+<TABLE BORDER="1">
+<TR><TH>コスパ</TH><TH>駅近</TH><TH>お酒</TH><TH>点数</TH></TR>
+<TR><TD>〇</TD><TD>×</TD><TD>△</TD><TD>10</TD></TR>
+<TR><TD>◎</TD><TD>✖</TD><TD>▲</TD><TD>90</TD></TR>
+</TABLE>
+<br>
+ここに説明文の挿入
+</body>
+</html>
