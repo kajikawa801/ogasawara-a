@@ -49,7 +49,15 @@ background:#2ABBBB;/*背景*//*色*/
 clear: both;/*回り込み解除*//*左右解除*/ }
 
 #a {float:left;}
-
+#b {float:left;}
+#c {float:left;}
+#d {float:left;}
+#e {float:left;}
+#f {float:left;}
+#g {float:left;}
+#h {float:left;}
+#i {float:left;}
+#j {float:left;}
 .font_test {
     font-size: 20px;    /* 文字サイズ指定 */
     color: red;     /* 文字色指定 */
