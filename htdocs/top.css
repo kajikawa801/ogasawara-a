@@ -1,7 +1,8 @@
 @charset "utf-8";
-body {background-image:url(sample01.jpg) ;
-    color:#FFFFFF;
-    font-weight: bold;}
+body {
+  color: black;
+  background-color: #afeeee;
+}
 .cp_navi {
   background-color: #ffffff;
   border: 1px solid #dedede;
@@ -81,11 +82,4 @@ body {background-image:url(sample01.jpg) ;
 }
 .cp_navi > ul > li > div ul > li:hover > a {
   background-color: rgba( 255, 255, 255, 0.1);
-}
-
-table {
-width: 800px;
-height: 300px;
-text-align: center;
-vertical-align: top;
 }
